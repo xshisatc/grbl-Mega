@@ -1,5 +1,8 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 ***
+
+http://3dmake.club/articles/drawing-machine/3-files-and-software.html
+
 _Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl-Mega/releases)_
 ***
 
